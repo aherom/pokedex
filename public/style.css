@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+#result {
+    text-align: center;
+}
+
+#result img {
+    width: 150px;
+    margin: 10px auto;
+}
